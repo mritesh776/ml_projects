@@ -8,5 +8,9 @@
     | Serious Injury | 1,743           |
     | Fatal Injury   | 158             |
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
     - **Shows that the dataset is Unbalanced**
 4. 
