@@ -71,4 +71,47 @@
 | type_of_collision          | 155            | 1.3                |
 | road_alignment             | 142            | 1.2                |
 
+6. Unique values in dataset
 
+| Column name                 | Unique Values |
+|-----------------------------|--------------|
+| Time                        | 1074         |
+| Cause_of_accident           | 20           |
+| Type_of_vehicle             | 17           |
+| Area_accident_occurred      | 14           |
+| Vehicle_movement            | 13           |
+| Type_of_collision           | 10           |
+| Pedestrian_movement         | 9            |
+| Weather_conditions          | 9            |
+| Road_alignment              | 9            |
+| Types_of_Junction           | 8            |
+| Number_of_casualties        | 8            |
+| Work_of_casuality           | 7            |
+| Lanes_or_Medians            | 7            |
+| Day_of_week                 | 7            |
+| Driving_experience          | 7            |
+| Educational_level           | 7            |
+| Service_year_of_vehicle     | 6            |
+| Age_band_of_casualty        | 6            |
+| Number_of_vehicles_involved | 6            |
+| Fitness_of_casuality        | 5            |
+| Road_surface_type           | 5            |
+| Age_band_of_driver          | 5            |
+| Casualty_severity           | 4            |
+| Road_surface_conditions     | 4            |
+| Casualty_class              | 4            |
+| Light_conditions            | 4            |
+| Owner_of_vehicle            | 4            |
+| Vehicle_driver_relation     | 4            |
+| Sex_of_casualty             | 3            |
+| Defect_of_vehicle           | 3            |
+| Sex_of_driver               | 3            |
+| Accident_severity           | 3            |
+
+7. Target Variable = Accident_severity
+
+| Values           | Count  |
+|------------------|--------|
+| Slight Injury    | 10415  |
+| Serious Injury   | 1743   |
+| Fatal injury     | 158    |
